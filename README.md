@@ -4,7 +4,7 @@
 [<img width="1200" alt="BannerGitHub (2)" src="https://user-images.githubusercontent.com/78531960/222975028-b52c77be-470c-477b-92db-d71d88ba2ecd.png">]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-ferreiro-barros)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cferreirobarros@gmail.com)
-[![Gmail](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](mailto:cferreirobarros@gmail.com)
+[![Gmail](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CharlyiiiGZ)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Charlyiiii?style=social)](https://twitter.com/Charlyiiii)
 
 
