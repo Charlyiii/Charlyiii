@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hola! Soy Carlos Ferreiro 👋
+### Estudiante de DAM
 
 <!--
 **Charlyiii/Charlyiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
