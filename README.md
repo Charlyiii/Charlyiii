@@ -1,4 +1,4 @@
-# !https://github.com/Charlyiii/ImagenesReadme/issues/1#issue-1610269464 Hola! Soy Carlos Ferreiro 👋
+# <img width="35" alt="AvatarPixelRed" src="https://user-images.githubusercontent.com/78531960/222974314-90d1acc7-7cf9-4af2-9b9d-aa3c40dafde8.png"> Hola! Soy Carlos Ferreiro 👋
 ### Estudiante de DAM
 
 <!--
