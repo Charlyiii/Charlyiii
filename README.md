@@ -1,6 +1,8 @@
 # <img width="35" alt="AvatarPixelRed" src="https://user-images.githubusercontent.com/78531960/222974314-90d1acc7-7cf9-4af2-9b9d-aa3c40dafde8.png"> Hola! Soy Carlos Ferreiro 👋
 ### Estudiante de DAM
 
+<img width="1200" alt="BannerGitHub (2)" src="https://user-images.githubusercontent.com/78531960/222975028-b52c77be-470c-477b-92db-d71d88ba2ecd.png">
+
 <!--
 **Charlyiii/Charlyiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
