@@ -1,12 +1,13 @@
 # <img width="35" alt="AvatarPixelRed" src="https://user-images.githubusercontent.com/78531960/222974314-90d1acc7-7cf9-4af2-9b9d-aa3c40dafde8.png"> Hola! Soy Carlos Ferreiro 👋
 ### Estudiante de DAM
 
-[<img width="1200" alt="BannerGitHub (2)" src="https://user-images.githubusercontent.com/78531960/222975028-b52c77be-470c-477b-92db-d71d88ba2ecd.png">]()
+[<img width="1200" alt="BannerGitHub (2)" src="https://user-images.githubusercontent.com/78531960/222975028-b52c77be-470c-477b-92db-d71d88ba2ecd.png">](https://user-images.githubusercontent.com/78531960/222975028-b52c77be-470c-477b-92db-d71d88ba2ecd.png)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-ferreiro-barros)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cferreirobarros@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CharlyiiiGZ)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cRhVWNvYbB)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Charlyiiii?style=social)](https://twitter.com/Charlyiiii)
+[![GitHub](https://img.shields.io/github/followers/Charlyiii?style=social)](https://github.com/Charlyiii)
 
 
 <!--
