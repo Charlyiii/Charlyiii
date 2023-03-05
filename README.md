@@ -1,5 +1,5 @@
 # <img width="35" alt="AvatarPixelRed" src="https://user-images.githubusercontent.com/78531960/222974314-90d1acc7-7cf9-4af2-9b9d-aa3c40dafde8.png"> Hola! Soy Carlos Ferreiro 👋
-### Estudiante de DAM
+### Estudiante de DAM & Autodidacta - Java, Spring, SQL, Kotlin, Android 
 
 [<img width="1200" alt="BannerGitHub (2)" src="https://user-images.githubusercontent.com/78531960/222975028-b52c77be-470c-477b-92db-d71d88ba2ecd.png">](https://user-images.githubusercontent.com/78531960/222975028-b52c77be-470c-477b-92db-d71d88ba2ecd.png)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-ferreiro-barros)
