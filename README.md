@@ -1,4 +1,4 @@
-# !https://user-images.githubusercontent.com/78531960/222973442-4d1555bd-5fa0-4c3a-b221-2d6358fabd14.png Hola! Soy Carlos Ferreiro 👋
+# !https://github.com/Charlyiii/ImagenesReadme/issues/1#issue-1610269464 Hola! Soy Carlos Ferreiro 👋
 ### Estudiante de DAM
 
 <!--
