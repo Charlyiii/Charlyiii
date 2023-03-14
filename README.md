@@ -9,6 +9,41 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Charlyiiii?style=social)](https://twitter.com/Charlyiiii)
 [![GitHub](https://img.shields.io/github/followers/Charlyiii?style=social)](https://github.com/Charlyiii)
 
+Actualmente estoy estudiando el ciclo superior de Desarrollo de Aplicaciones Multiplataforma, estudios que finalizaré este año.
+
+Además estoy preparando diferentes tecnologías por mi cuenta, así como exámenes de certificación ofical (Java y Oracle DB).
+
+Soy licenciado en Biología Marina y Técnico Superior en Producción Acuícola. En 2022, después de haber trabajado muchos en es sector de la acuicultura, empecé a ver vídeos sobre programación de vez en cuando y a hacer pequeñas cosas en Java. Cada vídeo que veía me hacía coger el ordenador y empezar a picar código hora y horas, y cada día me sorprendía más todo lo que se podía hacer...
+
+Decidí dar un giro de 180º a mi carrera profesional, me matriculé en DAM y dejé mi trabajo actual para centrarme totalmente en la programación.
+
+Parece una apuesta dificil y arriesgada con 39 años, pero creedme si os digo que no dudé ni un segundo en tomar la decesión. Quería dedicarme profesionalmente a esto, aprender algo nuevo cada día y trabajar en lo que de verdad me gusta. Si no era en ese momento, no sería nunca.
+
+Aún me queda un largo camino y mucho que aprender, pero un camino apasionante y del que disfruta cada día.
+
+## Tecnologías:
+🥇
+</br>
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)]() 	
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+</br>
+🥈
+</br>
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
+[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)]()
+[![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
+[![PLSQL](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)]()
+</br>
+🥉
+</br>
+[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
+
 
 <!--
 **Charlyiii/Charlyiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
