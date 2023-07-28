@@ -23,7 +23,7 @@ Aún me queda un largo camino y mucho que aprender, pero un camino apasionante y
 
 ## Tecnologías:
 [![DBFoundations](https://user-images.githubusercontent.com/78531960/256706844-6459abfa-4065-40b5-90f2-e0a5d2026db1.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A3E76C51F591F1F5D197AB5374341E505FEFCEAF395000D50FCF309E3D8041AC)
-[![JavaFoundations](https://user-images.githubusercontent.com/78531960/256706844-6459abfa-4065-40b5-90f2-e0a5d2026db1.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A3E76C51F591F1F5D197AB5374341E505FEFCEAF395000D50FCF309E3D8041AC)
+[![JavaFoundations](https://user-images.githubusercontent.com/78531960/256707088-606e1549-745f-446a-901f-96da136f52e5.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C4A503F1EA538EC39A77A3E79CB81B89969537AEE86F2F574916A61821D2C97F)
 
 
 🥇
