@@ -22,6 +22,9 @@ Parece una apuesta dificil y arriesgada con 39 años, pero creedme si os digo qu
 Aún me queda un largo camino y mucho que aprender, pero un camino apasionante y del que disfruta cada día.
 
 ## Tecnologías:
+[![DBFoundations](https://user-images.githubusercontent.com/78531960/256703371-b70312cf-31e6-496a-a6a0-46f5a651dada.jpg)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A3E76C51F591F1F5D197AB5374341E505FEFCEAF395000D50FCF309E3D8041AC)
+
+
 🥇
 </br>
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
