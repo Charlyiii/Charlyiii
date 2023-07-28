@@ -22,7 +22,8 @@ Parece una apuesta dificil y arriesgada con 39 años, pero creedme si os digo qu
 Aún me queda un largo camino y mucho que aprender, pero un camino apasionante y del que disfruta cada día.
 
 ## Tecnologías:
-[![DBFoundations](https://user-images.githubusercontent.com/78531960/256703371-b70312cf-31e6-496a-a6a0-46f5a651dada.jpg)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A3E76C51F591F1F5D197AB5374341E505FEFCEAF395000D50FCF309E3D8041AC)
+[![DBFoundations](https://user-images.githubusercontent.com/78531960/256706844-6459abfa-4065-40b5-90f2-e0a5d2026db1.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A3E76C51F591F1F5D197AB5374341E505FEFCEAF395000D50FCF309E3D8041AC)
+[![JavaFoundations](https://user-images.githubusercontent.com/78531960/256706844-6459abfa-4065-40b5-90f2-e0a5d2026db1.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A3E76C51F591F1F5D197AB5374341E505FEFCEAF395000D50FCF309E3D8041AC)
 
 
 🥇
