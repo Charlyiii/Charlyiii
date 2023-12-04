@@ -1,5 +1,5 @@
 # <img width="35" alt="AvatarPixelRed" src="https://user-images.githubusercontent.com/78531960/222974314-90d1acc7-7cf9-4af2-9b9d-aa3c40dafde8.png"> Hola! Soy Carlos Ferreiro 👋
-### Estudiante de DAM & Autodidacta - Java, Spring, SQL, Kotlin, Android 
+### Android developor - Java, Spring, SQL, Kotlin, Jetpack Compose, Clean Architecture 
 
 [<img width="1200" alt="BannerGitHub (2)" src="https://user-images.githubusercontent.com/78531960/222975028-b52c77be-470c-477b-92db-d71d88ba2ecd.png">](https://user-images.githubusercontent.com/78531960/222975028-b52c77be-470c-477b-92db-d71d88ba2ecd.png)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-ferreiro-barros)
@@ -9,15 +9,13 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Charlyiiii?style=social)](https://twitter.com/Charlyiiii)
 [![GitHub](https://img.shields.io/github/followers/Charlyiii?style=social)](https://github.com/Charlyiii)
 
-Actualmente estoy estudiando el ciclo superior de Desarrollo de Aplicaciones Multiplataforma, estudios que finalizaré este año.
-
-Además estoy preparando diferentes tecnologías por mi cuenta, así como exámenes de certificación ofical (Java y Oracle DB).
-
 Soy licenciado en Biología Marina y Técnico Superior en Producción Acuícola. En 2022, después de haber trabajado muchos en es sector de la acuicultura, empecé a ver vídeos sobre programación de vez en cuando y a hacer pequeñas cosas en Java. Cada vídeo que veía me hacía coger el ordenador y empezar a picar código hora y horas, y cada día me sorprendía más todo lo que se podía hacer...
 
 Decidí dar un giro de 180º a mi carrera profesional, me matriculé en DAM y dejé mi trabajo actual para centrarme totalmente en la programación.
 
 Parece una apuesta dificil y arriesgada con 39 años, pero creedme si os digo que no dudé ni un segundo en tomar la decesión. Quería dedicarme profesionalmente a esto, aprender algo nuevo cada día y trabajar en lo que de verdad me gusta. Si no era en ese momento, no sería nunca.
+
+Y todo esfuerzo tiene su recompensa, después de realizar las prácticas, mi empresa me ofreció la posibilidad de seguir con ellos en un proyecto de gran envergadura. 
 
 Aún me queda un largo camino y mucho que aprender, pero un camino apasionante y del que disfruta cada día.
 
